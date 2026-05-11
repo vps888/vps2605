@@ -28,7 +28,7 @@
 
 [点击查看更多方案](https://www.dmit.io/aff.php?aff=20265)
 
-## 3. HostDare - 超高性价比，优惠码本月可用
+## 3. HostDare - 超高性价比，优惠码本月可用（不定期补货）
 
 [HostDare](https://bill.hostdare.com/aff.php?aff=4558) 主打美国洛杉矶 CN2 GIA (CSSD/CKVM) 和 CN2 GT (QSSD/QKVM) 线路，以及日本软银线路。
 
