@@ -1,9 +1,9 @@
-# 2026年5月三网优化高性价比VPS推荐（带最新优惠码）
+# 2026年6月三网优化高性价比VPS推荐（带最新优惠码）
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 [![Updated](https://img.shields.io/badge/Updated-May_2026-blue)]()
 
-> 本文更新于：2026年5月27日 22:17
+> 本文更新于：2026年6月8日 16:34
 
 > 自己搭建 VPS，[参考: 5 分钟手把手教你把 VPS 搭建成 VPN代理](https://github.com/vps888/vpn/blob/main/5%20%E5%88%86%E9%92%9F%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%8A%8A%20VPS%20%E6%90%AD%E5%BB%BA%E6%88%90%20VPN%E4%BB%A3%E7%90%86%EF%BC%882026%EF%BC%89.md)
 
@@ -61,18 +61,3 @@
 | **CKVM2(推荐)** | **2C 1.5GB 75G-HDD**（机械硬盘） | **1TB** | **60Mbps** | **美国 CN2 GIA** |   **\$69.29/年**   | **[购买](https://bill.hostdare.com/aff.php?aff=4558&pid=75)** | **W3VMAXF40N** |
 
 [点击查看更多方案](https://bill.hostdare.com/aff.php?aff=4558)
-
-## 4. DMIT - 最近很火，线路质量非常好。
-
-[DMIT](https://www.dmit.io/aff.php?aff=20265) 2018 年初开始运营 VPS 相关业务，美国纽约注册公司，主营中国香港、美国洛杉矶以及日本东京的独立服务器和 KVM VPS。下方推荐的方案大多数没货，因为太火了，尤其是最近查得严。
-
-|             方案             | 配置          | 流量/月 | 带宽  |      推荐机房      |      价格      |                         购买                          |
-| :--------------------------: | ------------- | :-----: | :---: | :----------------: | :------------: | :---------------------------------------------------: |
-|  LAX.AN5.Pro.TINY(**推荐**)  | 1C 2G 20G-SSD |   1TB   | 1Gbps | 美国洛杉矶 CN2 GIA | **\$12.98/月** | [购买](https://www.dmit.io/aff.php?aff=20265&pid=100) |
-| LAX.AN5.Pro.Pocket(**推荐**) | 2C 2G 40G-SSD |  1.5TB  | 4Gbps | 美国洛杉矶 CN2 GIA | **\$18.9/月**  | [购买](https://www.dmit.io/aff.php?aff=20265&pid=137) |
-|  LAX.AN5.EB.TINY(**推荐**)   | 1C 2G 20G-SSD |  1.5TB  | 2Gbps | 美国洛杉矶 CN2 GIA | **\$12.98/月** | [购买](https://www.dmit.io/aff.php?aff=20265&pid=189) |
-| LAX.AN5.EB.Pocket(**推荐**)  | 2C 2G 40G-SSD |   3TB   | 4Gbps | 美国洛杉矶 CN2 GIA | **\$18.9/月**  | [购买](https://www.dmit.io/aff.php?aff=20265&pid=190) |
-|       TYO.AS3.Pro.TINY       | 1C1G 20G-SSD  |  500GB  | 1Gbps |  日本东京 CN2 GIA  | **\$21.9/月**  | [购买](https://www.dmit.io/aff.php?aff=20265&pid=138) |
-|      HKG.AS3.EB.TINYv2       | 1C1G 20G-SSD  |   1TB   | 1Gpbs |  中国香港 CN2 GIA  | **\$29.9/月**  | [购买](https://www.dmit.io/aff.php?aff=20265&pid=210) |
-
-[点击查看更多方案](https://www.dmit.io/aff.php?aff=20265)
