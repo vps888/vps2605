@@ -46,7 +46,7 @@
 
 [点击查看更多信息](https://my.racknerd.com/aff.php?aff=20007&pid=952)
 
-## 3. HostDare - 三网超高性价比，优惠码本月可用（现在有货）
+## 3. HostDare - 三网超高性价比，优惠码本月可用（已经好久没货了）
 
 [HostDare](https://bill.hostdare.com/aff.php?aff=4558) 主打美国洛杉矶 CN2 GIA (CSSD/CKVM) 和 CN2 GT (QSSD/QKVM) 线路，一共有3大类配置，建议有哪个，买哪个。
 
