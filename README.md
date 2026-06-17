@@ -18,7 +18,7 @@
 | **年付特惠-US CN2 GIA S5 建站推荐** | 2C 4G 40G-SSD |   2TB   | 50Mbps |   美国   | **388￥/年** | [购买](https://www.tmhhost.com/aff/IUEGWOEF) |
 |     **年付特惠 HK S1 超低延迟**     | 2C 4G 40G-SSD |   2TB   | 10Mbps |   香港   | **388￥/年** | [购买](https://www.tmhhost.com/aff/IUEGWOEF) |
 
-![TmhHost 618大促指引](https://github.com/vps888/vps2605/blob/main/tmhost-2026618.png)
+![TmhHost 618大促指引](tmhost-2026618.png)
 
 [点击查看更多信息](https://www.tmhhost.com/aff/IUEGWOEF)
 
