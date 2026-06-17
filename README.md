@@ -3,11 +3,22 @@
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 [![Updated](https://img.shields.io/badge/Updated-May_2026-blue)]()
 
-> 本文更新于：2026年6月8日 16:34
+> 本文更新于：2026年6月17日 14:48 【新增今年最高性价比VPS TmhHost】
 
 > 自己搭建 VPS，[参考: 5 分钟手把手教你把 VPS 搭建成 VPN代理](https://github.com/vps888/vpn/blob/main/5%20%E5%88%86%E9%92%9F%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%8A%8A%20VPS%20%E6%90%AD%E5%BB%BA%E6%88%90%20VPN%E4%BB%A3%E7%90%86%EF%BC%882026%EF%BC%89.md)
 
 只给大家推荐我实际用的，支持**三网优化**的大牌VPS，机器质量和网络质量都有保证，直接上干货。
+
+## 🔥🔥🔥 TmhHost - 目前最高性价比CN2 GIA VPS，618年中大促
+
+**延迟很低，这个配置+价格+网络优化，没有由于的理由！** 提供了**美国**和**香港**两个节点。
+
+|                方案                 | 配置          | 流量/月 |  带宽  | 推荐机房 |     价格     |                     购买                     |
+| :---------------------------------: | ------------- | :-----: | :----: | :------: | :----------: | :------------------------------------------: |
+| **年付特惠-US CN2 GIA S5 建站推荐** | 2C 4G 40G-SSD |   2TB   | 50Mbps |   美国   | **388￥/年** | [购买](https://www.tmhhost.com/aff/IUEGWOEF) |
+|     **年付特惠 HK S1 超低延迟**     | 2C 4G 40G-SSD |   2TB   | 10Mbps |   香港   | **388￥/年** | [购买](https://www.tmhhost.com/aff/IUEGWOEF) |
+
+[点击查看更多信息](https://www.tmhhost.com/aff/IUEGWOEF)
 
 ## 1. BandwagonHost - 知名度最高，线路质量最好
 
