@@ -1,14 +1,5 @@
----
-title: "2026年9月三网优化高性价比 VPS 推荐（附优惠码）"
-description: "整理实际用过和重点关注的三网优化 VPS 服务商、线路、配置和价格，适合搭建代理、远程开发和轻量服务。"
-slug: "cn2-vps-recommendations-2026"
-pubDate: 2026-06-17
-updatedDate: 2026-08-30
-order: 2
-category: "机场代理"
-tags: ["VPS", "CN2 GIA", "三网优化", "代理节点"]
-featured: true
----
+# 2026年9月三网优化高性价比 VPS 推荐（附优惠码）
+
 > 【更新】2026.08.30：搬瓦工质量还是好
 > 
 > 【更新】2026.08.07：【TmhHost 超高性价比还有货】
