@@ -82,3 +82,6 @@
 
 - [三网优化 VPS 推荐（GitHub）](https://github.com/vps888/vps2605)
 - [5 分钟手把手教你把 VPS 搭建成 VPN代理教程（GitHub）](https://github.com/vps888/vpn/blob/main/5%20%E5%88%86%E9%92%9F%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%8A%8A%20VPS%20%E6%90%AD%E5%BB%BA%E6%88%90%20VPN%E4%BB%A3%E7%90%86%EF%BC%882026%EF%BC%89.md)
+
+## 原文链接
+- [2026年11月最新三网优化高性价比 VPS 推荐（附优惠码）](https://zhetengxia.com/blog/cn2-vps-recommendations-2026/)
